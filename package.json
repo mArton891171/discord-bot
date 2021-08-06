@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "ez egy nagyon menő bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mArton891171",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.0",
+    "random-puppy": "^1.1.0",
+    "superagent": "^6.1.0",
+    "weather": "^1.0.4",
+    "weather-js": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mArton891171/bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mArton891171/bot/issues"
+  },
+  "homepage": "https://github.com/mArton891171/bot#readme"
+}
